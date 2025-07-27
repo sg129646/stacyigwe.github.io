@@ -2,10 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Stacy Godfreey-Igwe
+first_name: Stacy
+middle_name: C.
+last_name: Godfreey-Igwe
+
+email: sgodfree[at]andrew.cmu.edu
+
+description: >
+  PhD student in Engineering & Public Policy at Carnegie Mellon. I study energy, equity, and climate resilience.
+
+url: https://stacyigwe.com
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
